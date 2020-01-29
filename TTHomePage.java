@@ -1,5 +1,2 @@
-Tiktok Home page code
-
-//servlet
-
-//main methos
+tushar
+tushar
